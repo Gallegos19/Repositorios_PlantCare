@@ -1,0 +1,15 @@
+[submodule "Front-PlantCare"]
+	path = Front-PlantCare
+	url = https://github.com/Gallegos19/PlantCare.git
+[submodule "codigo_esp32"]
+	path = codigo_esp32
+	url = https://github.com/Gallegos19/Sp32PlantCareCodigo.git
+[submodule "codigo_raspberry"]
+	path = codigo_raspberry
+	url = https://github.com/Braxterlol/moduloPy.git
+[submodule "ServerSocketIO"]
+	path = ServerSocketIO
+	url = https://github.com/HexagonalSole1/ServidorSocketIo.git
+[submodule "Api_Plantcare"]
+	path = Api_Plantcare
+	url = https://github.com/HexagonalSole1/Plant-Care_Api.git
